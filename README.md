@@ -1,18 +1,18 @@
-# 📝 Quora Posts
+# Quora Posts
 
 A simple Quora-inspired CRUD web application built using **Node.js**, **Express.js**, and **EJS**. Users can create, view, edit, and delete posts through a clean and simple interface.
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 https://quora-posts-0oaq.onrender.com/posts
 
-## 📸 Preview
+## Preview
 
 (Add a screenshot of your project here)
 
 ---
 
-## ✨ Features
+## Features
 
 - Create a new post
 - View all posts
@@ -24,7 +24,7 @@ A simple Quora-inspired CRUD web application built using **Node.js**, **Express.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Node.js
 - Express.js
@@ -36,7 +36,7 @@ A simple Quora-inspired CRUD web application built using **Node.js**, **Express.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Quora_Posts/
@@ -58,7 +58,7 @@ Quora_Posts/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 Clone the repository:
 
@@ -98,7 +98,7 @@ http://localhost:3000/posts
 
 ---
 
-## 📚 Routes
+## Routes
 
 | Method | Route | Description |
 |---------|-------|-------------|
@@ -112,7 +112,7 @@ http://localhost:3000/posts
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 - MongoDB integration
 - User authentication
@@ -123,7 +123,7 @@ http://localhost:3000/posts
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rajeev Mandover**
 
