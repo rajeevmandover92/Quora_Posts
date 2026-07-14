@@ -6,10 +6,6 @@ A simple Quora-inspired CRUD web application built using **Node.js**, **Express.
 
 🔗 https://quora-posts-0oaq.onrender.com/posts
 
-## Preview
-
-(Add a screenshot of your project here)
-
 ---
 
 ## Features
